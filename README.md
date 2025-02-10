@@ -24,5 +24,5 @@ This repository contains the implementation code for a novel federated learning 
 ## Contact Information
 **Researcher:** Michael Gao  
 **Institution:** Fairview High School, Boulder, CO  
-**Email:** michaeljgao07@gmail.com
-If you use code from this repository, please cite!
+**Email:** michaeljgao07@gmail.com 
+| If you use code from this repository, please cite!
