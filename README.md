@@ -1,7 +1,7 @@
 # CD-FTCN: Federated Crop Disease Detection via Spectra-Driven Temporal Convolutional Networks
 
 ## Overview
-This repository contains the implementation code for a novel federated learning approach to crop disease detection, as presented in my JSHS research manuscript. The proposed methodology leverages temporal convolutional networks and hyperspectral imaging data while preserving data privacy through federated learning architecture.
+This repository contains the implementation code for a novel federated learning approach to crop disease detection, as presented in my research manuscript. The proposed methodology leverages temporal convolutional networks and hyperspectral imaging data while preserving data privacy through federated learning architecture.
 
 **Note:** I implement centralized deep learning models from literature with both federated and centralized variants (not included). For appendix brevity, centralized models are identical to their federated counterpart, with just removed distributed learning components.
 
